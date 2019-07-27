@@ -1,4 +1,4 @@
-# Downloading Keytty
+# Downloading [Keytty](https://keytty.com)
 
 0. Make sure you are using _macOS 10.10+_
 1. Go to [releases](https://github.com/keytty/shelter/releases) to download the file of a version you want

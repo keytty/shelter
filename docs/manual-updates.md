@@ -1,4 +1,4 @@
-# Updating Keytty manually
+# Updating [Keytty](https://keytty.com) manually
 
 _Looking at this document means you probably need to update Keytty app manually._
 

@@ -5,3 +5,8 @@
 2. Open either `.dmg` or `.zip` and find `Keytty(.app)` 
 3. Place it into `/Applications`
 5. Run Keytty and enjoy using it!
+
+### Help development!
+- Do you like using Keytty? Me too! 
+- Keytty is a free software but also accepts supports from awesome people like you!
+- Consider [supporting Keytty](https://www.patreon.com/keytty) to enable more updates to come!
